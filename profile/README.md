@@ -2,7 +2,7 @@
 
 We're a non-profit, open-source research group exploring ethical implications and solutions created by state-of-the-art AI/ML developments.
 
-[💻Website](https://ethicalspectacle.org) | [🎓LinkedIn](https://www.linkedin.com/company/ethicalspectacle/) | [👾Discord](https://discord.gg/MMkUr6P8zv) | [📅Meetup](https://www.meetup.com/ethical-spectacle-research/?eventOrigin=event_home_page)
+[💻Website](https://ethicalspectacle.org) | [🎓LinkedIn](https://www.linkedin.com/company/ethicalspectacle/) | [👾Discord](https://discord.gg/MMkUr6P8zv) | [📅Meetup](https://www.meetup.com/ethical-spectacle-research/?eventOrigin=event_home_page) | [🤗HuggingFace](https://huggingface.co/ethical-spectacle)
 
 [📅Upcoming Hackathons + Workshops](https://ethicalspectacle.org/hackathons) | [🧠Hackathon Leaderboard](https://ethicalspectacle.org/leaderboard)
 
